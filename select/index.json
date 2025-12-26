@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "【歌ってみた】S.C.R.E.A.M  / Covered by 小柳ロウ×星導ショウ×緋八マナ",
+  "base_artist": "小柳ロウ / Koyanagi Rou【にじさんじ】",
+  "createdAt": "2025-12-26T03:38:59.611382Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "S.C.R.E.A.M",
+      "artist": "Mc Kresha",
+      "has_synced": true,
+      "path": "select/01_S.C.R.E.A.M_Mc_Kresha.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "S.C.R.E.A.M",
+      "artist": "小柳ロウ×星導ショウ×緋八マナ",
+      "has_synced": false,
+      "path": "select/pl_01_S.C.R.E.A.M_小柳ロウ×星導ショウ×緋八マナ.txt"
+    }
+  ]
+}
